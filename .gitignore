@@ -1,0 +1,17 @@
+CLAUDE.md
+result.ppm
+
+# Build
+build/
+cmake-build-*/
+
+# CLion
+.idea/
+
+# clangd
+.clangd/
+compile_commands.json
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,5 +1,0 @@
-CompileFlags:
-  Add:
-    - -I/home/cristi/CLionProjects/pbr/src
-    - -I/home/cristi/CLionProjects/pbr/src/ext/glm
-    - -std=c++20
